@@ -34,7 +34,7 @@ from futures_base.wc2 import send_msg
 
 warnings.filterwarnings('ignore')
 # con.connect('localhost',8922,'admin','123456')
-# main()
+
 
 获取数据='''
 login(`admin,`123456)
